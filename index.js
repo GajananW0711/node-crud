@@ -11,5 +11,9 @@ app.get('/', (request, response)=>{
 });
 
 app.get('/home', (request, response)=>{
-    response.send(`Response from GET method for url /Myhome`);
+    response.send(`This your HOME PAGE`);
+});
+
+app.post('/about', (request, response)=>{
+    response.send(`This is your ABOUT PAGE`);
 });

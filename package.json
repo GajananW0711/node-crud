@@ -1,5 +1,22 @@
 {
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GajananW0711/node-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GajananW0711/node-crud/issues"
+  },
+  "homepage": "https://github.com/GajananW0711/node-crud#readme"
 }
